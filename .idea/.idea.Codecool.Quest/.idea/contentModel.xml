@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Flup3ers\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Flup3ers\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Codecool.Quest.-417317549.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Flup3ers\source\repos\game_Csharp" t="IncludeFlat">
+      <e p="Codecool.Quest" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Codecool.Quest.csproj" t="IncludeRecursive" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="MainForm.Designer.cs" t="Include" />
+        <e p="MainForm.resx" t="Include" />
+        <e p="Models" t="Include">
+          <e p="Actors" t="Include">
+            <e p="Actor.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="Skeleton.cs" t="Include" />
+          </e>
+          <e p="Cell.cs" t="Include" />
+          <e p="CellType.cs" t="Include" />
+          <e p="GameMap.cs" t="Include" />
+          <e p="IDrawable.cs" t="Include" />
+          <e p="MapLoader.cs" t="Include" />
+          <e p="Tiles.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="map.txt" t="Include" />
+          <e p="roguelikeDungeon_transparent.png" t="Include" />
+        </e>
+      </e>
+      <e p="Codecool.Quest.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
